@@ -91,8 +91,26 @@ Discuss your data collection methods.</p>
 
 <p><img src="https://i.imgur.com/4bsAOHw.png" alt="" /></p>
 
-<p>Q: What’s missing from the graph being drawn in the picture above?
-A: The x- and y-axes are missing.</p>
+<p>Q: What’s missing from the graph being drawn in the picture above?</p><br>
+<form name="graphQuestion" onsubmit="graphQuestion()">
+  <p>Please select an answer below:</p>
+  <div>
+    <input type="radio" id="graphChoice1" 
+     name="contact" value="correct">
+    <label for="graphChoice1">The x- and y-axes are missing.</label>
+
+    <input type="radio" id="graphChoice2"
+     name="contact" value="incorrect">
+    <label for="graphChoice2">The graph is too sporadic.</label>
+
+    <input type="radio" id="graphChoice3"
+     name="contact" value="incorrect">
+    <label for="graphChoice3">The color of the graph must be black.</label>
+  </div>
+  <div>
+    <button type="submit">Submit</button>
+  </div>
+</form>
 
 <h2 id="graphing-distance-and-time">Graphing Distance and Time</h2>
 
@@ -112,6 +130,14 @@ A: The x- and y-axes are missing.</p>
             else{
               alert("Please try again! Remember to follow the time on the bottom of the graph.");
             }
+        }
+        
+        function graphQuestion() {
+           var x = document.querySelector('input[name="graphQuestion"]:checked').value;
+            
+              alert("I love you! " + x);
+          
+        }
         }
       </script>
 
