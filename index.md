@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/dtextbook/web-app/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<div><iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe></div>
 
 ### Markdown
 
