@@ -106,7 +106,12 @@ A: The x- and y-axes are missing.</p>
       <script>
         function findAnswer() {
             var x = document.getElementById("distanceTravelled").value;
-            alert("You selected: " + x);
+            if(x == 25){
+              alert("Correct! Great job!");
+            }
+            else{
+              alert("Please try again! Remember to follow the time on the bottom of the graph.");
+            }
         }
       </script>
 
