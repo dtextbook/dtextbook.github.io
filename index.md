@@ -43,3 +43,22 @@ Conduct a circle whiteboarding session where all groups display their whiteboard
 Now it’s time to ask questions of other groups. 
 Have groups compare their results and data collection methods with the members of other groups. Whose car went the fastest? Is easier to compare? Why or why not?
 Discuss your data collection methods. 
+
+## Motion Graphs 
+
+Drawing line graphs can help you understand motion. In this article, you’ll learn how to draw distance-time graphs and how you can use them to find the average speed of moving objects.
+
+![](https://i.imgur.com/4bsAOHw.png)
+
+Q: What’s missing from the graph being drawn in the picture above?
+A: The x- and y-axes are missing.
+
+
+## Graphing Distance and Time
+
+The motion of an object can be represented by a distance-time graph like Graph 1 in the Figure below. In this type of graph, the y-axis represents distance and the x-axis represents time. A distance-time graph shows how far an object has traveled at any given time since it started moving. However, it doesn’t show the direction(s) the object has traveled.  
+
+![](https://i.imgur.com/pJUkUSw.png)
+
+Q: In graph 1 above, what distance has the object traveled by the time 5 seconds have elapsed?
+A: The object has traveled a distance of about 25 meters.
