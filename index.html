@@ -92,7 +92,7 @@ Discuss your data collection methods.</p>
 <p><img src="https://i.imgur.com/4bsAOHw.png" alt="" /></p>
 
 <p>Q: What’s missing from the graph being drawn in the picture above?</p><br>
-<form name="graphQuestion" onsubmit="graphQuestion()">
+<form name="graphQuestion">
   <p>Please select an answer below:</p>
   <div>
     <input type="radio" id="graphChoice1" 
@@ -107,8 +107,8 @@ Discuss your data collection methods.</p>
      name="contact" value="incorrect">
     <label for="graphChoice3">The color of the graph must be black.</label><br>
   </div>
-  <div>
-    <button type="submit">Submit</button>
+  <div><br>
+    <button type="submit" onsubmit="graphQuestion()">Submit</button>
   </div>
 </form>
 
