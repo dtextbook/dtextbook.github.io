@@ -1,11 +1,11 @@
-# 2.1 Constant Velocity
+# 2.1 Constant Velocity (Move to Left) 
 
 <iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html" width="400" height="400" scrolling="no" allowfullscreen></iframe>
 
 
-## Activity 1- How Fast?
+## Activity 1- How Fast? (Move to Left) 
 
-### Apparatus:
+### Apparatus: (Move to Left) 
 - Toy battery powered car that travels at constant speed (alternatively have someone walk at a roughly constant pace)
 - Stopwatch
 - Meter stick
@@ -15,9 +15,9 @@
 - Copies of WS2 Terms for How Far
 
 
-### Pre-lab discussion
+### Pre-lab discussion (Move to Left) 
 1. Observe a moving object, (ex, toy car, remote operated toy, or even a video clip of an object moving).  Ask yourself, “How do you know this object is moving?” 
-1. Share some of your ideas with a partner.  Then share some of your ideas with the whole class the the Chat function and brainstorm.  
+1. Share some of your ideas with a partner.  Then share some of your ideas with the whole class the the Chat function and brainstorm.  **(Hyperlink for Discussion Board - Connect with QA Server)** 
 1. Now watch the battery operated vehicle run on the floor or table. How could we figure out this toy car’s speed?
 1. Conduct a class brainstorm and record their ideas at the front of the room.
 
@@ -25,7 +25,7 @@
 
 1. Using the materials at hand, your task is to devise a method of determining how fast your car (or object) moves as confidently as possible. Create your plan on the large whiteboard. When it is aproved, write down your plan —what measurements do you need to take? What units will you use? Do you plan to take more than one set of data?
 
-2. Carry out your plan from question 1 and record your data below. Remember to organize this data and add units as necessary to report back to the rest of the class. Take a picture of the whiteboard and post it to our gallery.
+2. Carry out your plan from question 1 and record your data below. Remember to organize this data and add units as necessary to report back to the rest of the class. **Take a picture of the whiteboard and post it to our gallery.(Open something to put in gallery) -- Connect with Django + Python) 
 
 3. Do a digital galary walk and compare your results with the members of other groups. In the space below, describe at least two different methods used by groups to report “how fast”.
 
